@@ -31,6 +31,20 @@ h1{
 /************** section 1 starts here **************/
 
 /************** section 2 starts here **************/
+.kitkat-item{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.kitkat-inner{
+	width: 4em;
+	height:  4em;
+	border-radius: 50%;
+	background: cadetblue;
+	text-align: center;
+}
+
 
 /************** section 3 starts here **************/
 
