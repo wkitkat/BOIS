@@ -1,0 +1,63 @@
+/************** STATIC SECTION **************/
+*{
+	box-sizing: border-box;
+}
+
+body, html{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	text-align: center;
+}
+
+.flex{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+
+}
+
+.flex__item{
+	flex: 30% 0 1;
+	min-width: 350px;
+	border:  1px solid aliceblue;
+}
+/************** STATIC SECTION ENDs **************/
+
+
+
+/************** section 1 starts here **************/
+
+/************** section 2 starts here **************/
+
+/************** section 3 starts here **************/
+
+/************** section 4 starts here **************/
+
+/************** section 5 starts here **************/
+
+/************** section 6 starts here **************/
+
+/************** section 7 starts here **************/
+
+/************** section 8 starts here **************/
+
+/************** section 9 starts here **************/
+
+/************** section 10 starts here **************/
+
+/************** section 11 starts here **************/
+
+/************** section 12 starts here **************/
+
+/************** section 13 starts here **************/
+
+/************** section 14 starts here **************/
+
+/************** section 15 starts here **************/
+
+
+
+
