@@ -69,6 +69,15 @@ h1{
 	color:  white;
 }
 
+.black-contant {
+	background-color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	font-size: 7em;
+}
+
 /************** section 4 starts here **************/
 
 /************** section 5 starts here **************/
