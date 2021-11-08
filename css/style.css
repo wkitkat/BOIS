@@ -58,6 +58,16 @@ h1{
 
 
 /************** section 3 starts here **************/
+.new-item{
+	display: flex;
+	justify-content: center;
+	align-items: stretch;
+}
+
+.new-inner{
+	background: lightpink;
+	color:  white;
+}
 
 /************** section 4 starts here **************/
 
