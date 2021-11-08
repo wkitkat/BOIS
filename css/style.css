@@ -90,6 +90,57 @@ h1{
 
 /************** section 9 starts here **************/
 
+.item{
+	flex: 0 1 50px;
+}
+
+.Treug1 {
+	flex: 0 1 auto;
+	width: 0; 
+	height: 0;
+	border-top: 50px solid green;
+	border-right: 50px solid transparent;
+}
+
+.Treug1 {
+	width: 0; 
+	height: 0;
+	border-top: 50px solid green;
+	border-right: 50px solid transparent;
+}
+
+.Treug2 {
+	width: 0;
+	height: 0;
+	border-bottom: 50px solid green; 
+	border-right: 50px solid transparent; 
+}
+
+.Treug3 {
+	width: 0;
+	height: 0;
+	border-top: 50px solid green; 
+	border-left: 50px solid transparent; 
+}
+
+.Treug4{
+	width: 0;
+ 	height: 0;
+ 	border-bottom: 50px solid green; 
+ 	border-left: 50px solid transparent;
+}
+
+#flex{
+	display: flex;
+	justify-content: space-between;
+}
+
+.border{
+	padding: 15px;
+	border-style: solid;
+	text-align: center;
+}
+
 /************** section 10 starts here **************/
 
 /************** section 11 starts here **************/
