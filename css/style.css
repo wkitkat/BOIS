@@ -29,17 +29,7 @@ h1{
 
 
 /************** section 1 starts here **************/
-.furda-content {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-.furda-box {
-	margin: 2em;
-	width: 10em;
-	height: 10em;
-	background-color: red;
-}
+
 
 /************** section 2 starts here **************/
 .kitkat-item{
