@@ -93,30 +93,27 @@ h1{
 	border-right: 50px solid transparent;
 }
 
-.Treug1 {
+.triangle{
 	width: 0; 
-	height: 0;
+	height: 0;	
+}
+
+.Treug1 {
 	border-top: 50px solid green;
 	border-right: 50px solid transparent;
 }
 
 .Treug2 {
-	width: 0;
-	height: 0;
 	border-bottom: 50px solid green; 
 	border-right: 50px solid transparent; 
 }
 
 .Treug3 {
-	width: 0;
-	height: 0;
 	border-top: 50px solid green; 
 	border-left: 50px solid transparent; 
 }
 
 .Treug4{
-	width: 0;
- 	height: 0;
  	border-bottom: 50px solid green; 
  	border-left: 50px solid transparent;
 }
