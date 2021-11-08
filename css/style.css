@@ -58,6 +58,14 @@ h1{
 
 
 /************** section 3 starts here **************/
+.black-contant {
+	background-color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	font-size: 7em;
+}
 
 /************** section 4 starts here **************/
 
