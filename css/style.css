@@ -66,7 +66,6 @@ h1{
 	justify-content: center;
 	align-items: center;
 	color: white;
-	font-size: 7em;
 }
 
 /************** section 4 starts here **************/
@@ -135,12 +134,24 @@ h1{
 
 /************** section 12 starts here **************/
 
+.Assassins{
+	background: #364566;
+	
+}
+
+.Assassins-flex{
+	display: flex;
+	flex-direction: column;
+}
+
+.Assassins-text{
+	text-align: center;
+}
+
 /************** section 13 starts here **************/
 
 /************** section 14 starts here **************/
 
 /************** section 15 starts here **************/
-
-
 
 
