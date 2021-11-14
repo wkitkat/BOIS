@@ -16,7 +16,6 @@ h1{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
-
 }
 
 .flex__item{
@@ -29,7 +28,6 @@ h1{
 
 
 /************** section 1 starts here **************/
-
 
 /************** section 2 starts here **************/
 .kitkat-item{
@@ -130,6 +128,7 @@ h1{
 
 /************** section 10 starts here **************/
 
+
 /************** section 11 starts here **************/
 
 /************** section 12 starts here **************/
@@ -154,4 +153,11 @@ h1{
 
 /************** section 15 starts here **************/
 
-
+.Meme{
+	width: 100%;
+}
+.MemeContainer{
+	justify-content: center;
+	max-height: 300px;
+	display: flex;
+}
