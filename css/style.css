@@ -29,6 +29,15 @@ h1{
 
 /************** section 1 starts here **************/
 
+.FloppaPic{
+	width: 75%;
+}
+.FloppaBorder{
+	justify-content: center;
+	display: flex;
+}
+
+
 /************** section 2 starts here **************/
 .kitkat-item{
 	display: flex;
